@@ -1,3 +1,7 @@
+Archived Repo
+
+This fork is an archived snapshot of the arcanist project. Please do not file issues or pull-requests. The primary on-going source of the project may now be found at https://github.com/phacility/arcanist
+
 WHAT IS ARCANIST?
 
 Arcanist is the command-line tool for Phabricator. It allows you to interact
